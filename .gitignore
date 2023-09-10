@@ -1,0 +1,7 @@
+*.mp4
+*.ass
+*.srt
+out/
+.env
+__pycache__
+.vscode
